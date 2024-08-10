@@ -2,5 +2,5 @@
 
 <kbd>
 <<<<<<< HEAD
-  <img src="asset/POS_Image.png"  alt="POS Image"/>
+  <img src="asset/Image.png"  alt="POS Image"/>
 </kbd>
